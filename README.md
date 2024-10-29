@@ -8,7 +8,7 @@ The **Analog Clock** is a simple tutorial that demonstrates how to build an anal
 
 ## 🚀 Project Link
 
-[View the Project on Vercel](https://your-vercel-link.vercel.app)
+[View the Project on Vercel](https://analoggclock.vercel.app)
 
 ## 🛠️ Tools and Technologies
 
